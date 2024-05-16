@@ -1,0 +1,94 @@
+[
+    {
+        "home": {
+            "name": "Boston Celtics",
+            "mascot": "Celtics",
+            "short_name": "Boston",
+            "abbr_name": "BOS",
+            "score": 94
+        },
+        "away": {
+            "name": "Cleveland Cavaliers",
+            "mascot": "Cavaliers",
+            "short_name": "Cleveland",
+            "abbr_name": "CLE",
+            "score": 118
+        },
+        "scores": {
+            "home": 94,
+            "away": 118
+        },
+        "periods": [
+            {
+                "num": 1,
+                "ordinal": "Q1",
+                "home": 24,
+                "away": 30
+            },
+            {
+                "num": 2,
+                "ordinal": "Q2",
+                "home": 30,
+                "away": 24
+            },
+            {
+                "num": 3,
+                "ordinal": "Q3",
+                "home": 24,
+                "away": 36
+            },
+            {
+                "num": 4,
+                "ordinal": "Q4",
+                "home": 16,
+                "away": 28
+            }
+        ]
+    },
+    {
+        "home": {
+            "name": "Oklahoma City Thunder",
+            "mascot": "Thunder",
+            "short_name": "Oklahoma City",
+            "abbr_name": "OKC",
+            "score": 110
+        },
+        "away": {
+            "name": "Dallas Mavericks",
+            "mascot": "Mavericks",
+            "short_name": "Dallas",
+            "abbr_name": "DAL",
+            "score": 119
+        },
+        "scores": {
+            "home": 110,
+            "away": 119
+        },
+        "periods": [
+            {
+                "num": 1,
+                "ordinal": "Q1",
+                "home": 32,
+                "away": 36
+            },
+            {
+                "num": 2,
+                "ordinal": "Q2",
+                "home": 30,
+                "away": 32
+            },
+            {
+                "num": 3,
+                "ordinal": "Q3",
+                "home": 27,
+                "away": 31
+            },
+            {
+                "num": 4,
+                "ordinal": "Q4",
+                "home": 21,
+                "away": 20
+            }
+        ]
+    }
+]

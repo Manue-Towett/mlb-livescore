@@ -1,0 +1,247 @@
+{
+    "meta": {
+        "version": 1,
+        "request": "https://nba-prod-us-east-1-mediaops-stats.s3.amazonaws.com/NBA/liveData/scoreboard/todaysScoreboard_00.json",
+        "time": "2024-05-10 09:49:35.4935",
+        "code": 200
+    },
+    "scoreboard": {
+        "gameDate": "2024-05-09",
+        "leagueId": "00",
+        "leagueName": "National Basketball Association",
+        "games": [
+            {
+                "gameId": "0042300202",
+                "gameCode": "20240509/CLEBOS",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2024-05-09T23:00:00Z",
+                "gameEt": "2024-05-09T19:00:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "Game 2",
+                "gameLabel": "East - Conf. Semifinals",
+                "gameSubLabel": "Game 2",
+                "seriesText": "Series tied 1-1",
+                "seriesConference": "East",
+                "poRoundDesc": "Conf. Semifinals",
+                "gameSubtype": "",
+                "homeTeam": {
+                    "teamId": 1610612738,
+                    "teamName": "Celtics",
+                    "teamCity": "Boston",
+                    "teamTricode": "BOS",
+                    "wins": 1,
+                    "losses": 1,
+                    "score": 94,
+                    "seed": 1,
+                    "inBonus": null,
+                    "timeoutsRemaining": 1,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 24
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 30
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 24
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 16
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612739,
+                    "teamName": "Cavaliers",
+                    "teamCity": "Cleveland",
+                    "teamTricode": "CLE",
+                    "wins": 1,
+                    "losses": 1,
+                    "score": 118,
+                    "seed": 4,
+                    "inBonus": null,
+                    "timeoutsRemaining": 1,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 30
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 24
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 36
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 28
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 1628369,
+                        "name": "Jayson Tatum",
+                        "jerseyNum": "0",
+                        "position": "F-G",
+                        "teamTricode": "BOS",
+                        "playerSlug": null,
+                        "points": 25,
+                        "rebounds": 7,
+                        "assists": 6
+                    },
+                    "awayLeaders": {
+                        "personId": 1628378,
+                        "name": "Donovan Mitchell",
+                        "jerseyNum": "45",
+                        "position": "G",
+                        "teamTricode": "CLE",
+                        "playerSlug": null,
+                        "points": 29,
+                        "rebounds": 7,
+                        "assists": 8
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0.0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0042300222",
+                "gameCode": "20240509/DALOKC",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2024-05-10T01:30:00Z",
+                "gameEt": "2024-05-09T21:30:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "Game 2",
+                "gameLabel": "West - Conf. Semifinals",
+                "gameSubLabel": "Game 2",
+                "seriesText": "Series tied 1-1",
+                "seriesConference": "West",
+                "poRoundDesc": "Conf. Semifinals",
+                "gameSubtype": "",
+                "homeTeam": {
+                    "teamId": 1610612760,
+                    "teamName": "Thunder",
+                    "teamCity": "Oklahoma City",
+                    "teamTricode": "OKC",
+                    "wins": 1,
+                    "losses": 1,
+                    "score": 110,
+                    "seed": 1,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 32
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 30
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 21
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612742,
+                    "teamName": "Mavericks",
+                    "teamCity": "Dallas",
+                    "teamTricode": "DAL",
+                    "wins": 1,
+                    "losses": 1,
+                    "score": 119,
+                    "seed": 5,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 36
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 32
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 31
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 20
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 1628983,
+                        "name": "Shai Gilgeous-Alexander",
+                        "jerseyNum": "2",
+                        "position": "G",
+                        "teamTricode": "OKC",
+                        "playerSlug": null,
+                        "points": 33,
+                        "rebounds": 12,
+                        "assists": 8
+                    },
+                    "awayLeaders": {
+                        "personId": 1629029,
+                        "name": "Luka Doncic",
+                        "jerseyNum": "77",
+                        "position": "F-G",
+                        "teamTricode": "DAL",
+                        "playerSlug": null,
+                        "points": 29,
+                        "rebounds": 10,
+                        "assists": 7
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0.0,
+                    "suspended": 0
+                }
+            }
+        ]
+    }
+}
